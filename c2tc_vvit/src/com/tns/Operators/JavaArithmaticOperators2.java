@@ -4,6 +4,8 @@ public class JavaArithmaticOperators2 {
 	public static void main(String[] args) {
 		int a = 10;
 		int b = 5;
+		// java arithmetic operators are used to perform addition, subtraction, multiplication and
+		//division, they are used as basic mathematical operators
 		System.out.println(a+b);//15
 		System.out.println(a-b);//5
 		System.out.println(a*b);//50

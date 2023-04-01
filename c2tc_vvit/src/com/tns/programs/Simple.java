@@ -10,3 +10,6 @@ public class Simple {
 	}
 
 }
+//java is a programming language and a platform
+//java is highelevel, object oriented, robust and secure
+//programming language
